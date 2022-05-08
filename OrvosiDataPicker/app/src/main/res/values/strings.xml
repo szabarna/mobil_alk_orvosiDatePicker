@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">OrvosiDataPicker</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="registration">Registration</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password_confirmation">Password Confirmation</string>
+    <string name="cancel">Cancel</string>
+    <string name="jobtype">jobType</string>
+    <string name="job_type">Job Type</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_job_type">Item Job Type</string>
+    <string name="reserve">Reserve</string>
+
+    <!-- RecyclerView Resources -->
+
+    <string name="name_placeholder">Name</string>
+    <string name="type_placeholder">Type</string>
+    <string name="search">Search</string>
+
+
+    <string-array name="item_names">
+
+        <item>Dr. RandomDr 1.</item>
+        <item>Dr. RandomDr 2.</item>
+        <item>Dr. RandomDr 3.</item>
+        <item>Dr. RandomDr 4.</item>
+        <item>Dr. RandomDr 5.</item>
+        <item>Dr. RandomDr 6.</item>
+        <item>Dr. RandomDr 7.</item>
+        <item>Dr. RandomDr 8.</item>
+
+    </string-array>
+
+    <string-array name="item_types">
+
+        <item>Dentist</item>
+        <item>Radiologist</item>
+        <item>Dentist</item>
+        <item>Psychologist</item>
+        <item>Chiropractor</item>
+        <item>Surgeon</item>
+        <item>Neurologist</item>
+        <item>Infectiologist</item>
+
+    </string-array>
+
+   <array name="item_rates">
+
+       <item>1.0</item>
+       <item>1.5</item>
+       <item>2.0</item>
+       <item>2.5</item>
+       <item>3.0</item>
+       <item>3.5</item>
+       <item>4.0</item>
+       <item>4.5</item>
+
+   </array>
+
+    <array name="item_images">
+
+<!--        <item>@drawable/chiropractor</item>-->
+<!--        <item>@drawable/neurologist</item>-->
+<!--        <item>@drawable/radiology</item>-->
+<!--        <item>2.5</item>-->
+<!--        <item>3.0</item>-->
+<!--        <item>3.5</item>-->
+<!--        <item>4.0</item>-->
+<!--        <item>4.5</item>-->
+
+    </array>
+
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "824867003666",
+    "project_id": "android-orvosidatepicker",
+    "storage_bucket": "android-orvosidatepicker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824867003666:android:c34037bf6338ebdc7fa7cb",
+        "android_client_info": {
+          "package_name": "com.example.orvosidatapicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824867003666-b4lb2n8qau8c4uv413k4qufiealr4h4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orvosidatapicker",
+            "certificate_hash": "6dc044ee9aa180f844a1695779b8a0042d025bfb"
+          }
+        },
+        {
+          "client_id": "824867003666-5vto0q170k8edgj7re7j48v0ald0id4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ3gxVjMQ30z8mRgHEi8xslN8c36fgdns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824867003666-5vto0q170k8edgj7re7j48v0ald0id4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
