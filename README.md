@@ -1,3 +1,3 @@
 # mobil_alk_orvosiDatePicker
 
-CRUD műveletek, Firebase lekérdezések, android permission használata nem lettek megvalósitva.
+CRUD műveletek, Firestore lekérdezések, android permission használata nem lettek megvalósitva.
